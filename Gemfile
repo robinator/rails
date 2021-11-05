@@ -8,7 +8,7 @@ else
   gem 'arel'
 end
 
-gem 'bcrypt-ruby', '~> 3.0.0'
+gem 'bcrypt-ruby', '~> 3.1.1'
 gem 'jquery-rails'
 
 if ENV['JOURNEY']
