@@ -8,7 +8,7 @@ else
   gem 'arel'
 end
 
-gem 'bcrypt-ruby', '~> 3.0.0'
+gem 'bcrypt-ruby', '~> 3.1.1'
 
 if RUBY_VERSION < '1.9.3'
   gem 'jquery-rails', '< 4'
